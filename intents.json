@@ -1,0 +1,314 @@
+{
+  "intents": [
+    {
+      "tag": "clubs_societies_info",
+      "patterns": [
+        "What are the different clubs and societies available on campus?"
+      ],
+      "responses": [
+        "We have a diverse range of clubs and societies on campus, catering to various interests and passions. Some examples include cultural clubs (e.g., Yemeni community, African community... etc), sports clubs (e.g., Basketball Club, Tennis club), recreational clubs (e.g., Photography Club, music club), and more. You can find a comprehensive list on our website or reach out to the student affairs office for more information."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "join_club_society",
+      "patterns": [
+        "How can I join a club or society?"
+      ],
+      "responses": [
+        "Joining a club or society is simple! You can register yourself to any club you want also, you can find your community by choosing your nationality. Visit our website for more info and navigate to the specific club you're interested in. There, you'll find information on how to join, such as filling out a membership form or attending an introductory meeting. Alternatively, you can contact the club's leaders via email or reach out to their club president or advisor for more details."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "club_society_benefits",
+      "patterns": [
+        "What are the benefits of joining a club or society?"
+      ],
+      "responses": [
+        "Joining a club or society offers numerous benefits. It allows you to pursue your interests, meet like-minded individuals, develop new skills, enhance your leadership abilities, and build a sense of community on campus. Additionally, clubs and societies often organize events, workshops, guest speaker sessions, career fairs, and networking opportunities that can enrich your university experience and help you grow personally and professionally."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "join_multiple_clubs",
+      "patterns": [
+        "Can I join multiple clubs?"
+      ],
+      "responses": [
+        "Absolutely! We encourage students to explore their interests and join multiple clubs. It's a great way to engage with different communities, broaden your horizons, and make the most of your university experience. However, keep in mind the time commitment and ensure you can balance your involvement effectively."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "club_society_meeting_frequency",
+      "patterns": [
+        "How often do clubs and societies meet?"
+      ],
+      "responses": [
+        "Meeting frequencies vary among clubs and societies. Some may meet weekly, bi-weekly, or monthly, depending on their activities and schedules. The meeting times and frequencies are usually determined by the club's executive board and communicated to the members."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "club_society_activities_events",
+      "patterns": [
+        "What types of activities and events do clubs and societies organize?"
+      ],
+      "responses": [
+        "Clubs and societies organize a wide range of activities and events. These can include guest speaker sessions, workshops, panel discussions, cultural performances, competitions, community service projects, social gatherings, sports tournaments, fundraising events, and more. Each club focuses on its specific area of interest and aims to provide engaging and enriching experiences for its members."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "start_own_club_society",
+      "patterns": [
+        "Can I start my own club or society?"
+      ],
+      "responses": [
+        "Absolutely! If you have a unique interest or passion that is not currently represented by existing clubs and societies, you have the opportunity to start your own. You can reach out to the student affairs office or the designated department overseeing clubs and societies to learn about the process and requirements for starting a new club."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "club_society_leadership_opportunities",
+      "patterns": [
+        "Are there any leadership opportunities within clubs and societies?"
+      ],
+      "responses": [
+        "Yes, clubs and societies offer various leadership opportunities. Most clubs have executive board positions, such as president, vice-president, treasurer, and secretary, which provide valuable leadership experience. Additionally, clubs may have committee chairs, event coordinators, or other roles that allow members to take on leadership responsibilities and contribute to the club's management and activities."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "club_society_social_connections",
+      "patterns": [
+        "Can clubs and societies help me meet new people and make friends?"
+      ],
+      "responses": [
+        "Absolutely! Joining clubs and societies is an excellent way to meet new people and make friends who share similar interests. By participating in club activities, attending events, and engaging in group discussions, you'll have the opportunity to connect with fellow students and build meaningful relationships."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "sports_recreational_clubs",
+      "patterns": [
+        "Are there any sports or recreational clubs available?"
+      ],
+      "responses": [
+        "Yes, we have a range of sports and recreational clubs on campus. These clubs cater to various activities, such as soccer, basketball, tennis, swimming, dance, martial arts, hiking, and more. They provide opportunities for both competitive and casual participation, allowing you to pursue your athletic interests and stay active while connecting with other sports enthusiasts."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "club_society_participation_competitions",
+      "patterns": [
+        "Do clubs and societies participate in competitions or tournaments?"
+      ],
+      "responses": [
+        "Many clubs and societies actively participate in competitions, tournaments, and other events outside of the university. These can include academic competitions, sports tournaments, cultural showcases, debate tournaments, hackathons, and more. Participation in such events allows members to showcase their skills, represent the university, and engage in friendly competition with other institutions."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "specific_club_society_info",
+      "patterns": [
+        "How can I find out more information about a specific club or society?"
+      ],
+      "responses": [
+        "To find more information about a specific club or society, you can visit our website and navigate to the dedicated pages for clubs and societies. Additionally, you can reach out to the club's designated email or contact their club president or advisor for any specific inquiries or additional information."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "attend_club_society_events",
+      "patterns": [
+        "Can I attend club or society events even if I'm not a member?"
+      ],
+      "responses": [
+        "In many cases, club or society events are open to both members and non-members. These events provide an opportunity for students to learn more about the club, its activities, and its members. Attending these events can be a great way to get a sense of the club's atmosphere and see if it aligns with your interests before deciding to join."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "get_involved_club_society_leadership",
+      "patterns": [
+        "How can I get involved in club or society leadership positions?"
+      ],
+      "responses": [
+        "If you're interested in taking on a leadership position within a club or society, the best way to get involved is to actively participate in the club's activities and demonstrate your commitment and enthusiasm. Many clubs hold elections or have application processes for leadership positions at the end of each academic year. By engaging with the club, building relationships with current leaders, and showcasing your dedication, you'll increase your chances of being considered for a leadership role."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "club_society_requirements_restrictions",
+      "patterns": [
+        "Are there any restrictions or requirements for joining certain clubs or societies?"
+      ],
+      "responses": [
+        "Some clubs or societies may have specific requirements or restrictions for joining, depending on their nature or purpose. For example, certain performance-based clubs may require auditions, sports clubs may have skill or experience prerequisites, and academic clubs may require enrollment in specific courses or majors. However, many clubs have open membership and welcome students from all backgrounds and levels of experience. The specific requirements or restrictions, if any, will be outlined on the club's webpage or communicated during the joining process."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "open_day_info",
+      "patterns": [
+        "When is the next open day, and what can I expect to see and do during the event?"
+      ],
+      "responses": [
+        "The next open day is scheduled for [date]. During the event, you can expect campus tours, information sessions, presentations about academic programs, opportunities to meet with faculty and staff, and the chance to explore the facilities and resources available on campus. It's a great opportunity to get a comprehensive overview of the university and its offerings."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "campus_tours_open_day",
+      "patterns": [
+        "Will there be campus tours available during the open day?"
+      ],
+      "responses": [
+        "Yes, campus tours will be available during the open day. These tours will provide you with the opportunity to explore the campus, visit academic buildings, libraries, student centers, residence halls, and other important facilities. Knowledgeable guides will accompany you and provide information about the campus and its amenities."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "meeting_professors_advisors_open_day",
+      "patterns": [
+        "Can I meet with professors or academic advisors during the open day?"
+      ],
+      "responses": [
+        "Absolutely! The open day provides an excellent opportunity to meet with professors and academic advisors. There are designated time slots or information sessions where you can have one-on-one conversations or group discussions with faculty members and advisors. They can answer questions about academic programs, majors, course requirements, and provide guidance regarding your academic journey."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "academic_programs_info_open_day",
+      "patterns": [
+        "Are there any information sessions or presentations about specific academic programs or majors?"
+      ],
+      "responses": [
+        "Yes, information sessions and presentations about specific academic programs or majors will be held during the open day. These sessions allow you to learn more about the curriculum, career prospects, research opportunities, and unique features of each program. You'll have the chance to interact with faculty members, current students, and alumni from those programs."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "current_students_open_day",
+      "patterns": [
+        "Will current students be available to answer questions and share their experiences during the open day?"
+      ],
+      "responses": [
+        "Yes, current students will be available during the open day to answer questions and share their experiences. They often participate in panels, Q&A sessions, and informal discussions where you can ask them about campus life, student organizations, extracurricular activities, internships, and their overall experience at the university."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "register_open_day",
+      "patterns": [
+        "How can I register for the open day and secure a spot?"
+      ],
+      "responses": [
+        "To register for the open day and secure a spot, you can visit our university website and navigate to the dedicated open day registration page. There, you'll find a registration form that you can fill out with your details. Once registered, you'll receive confirmation and any additional information about the event via email."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "university_events_festivals",
+      "patterns": [
+        "Are there any upcoming university-wide events or festivals that I should be aware of?"
+      ],
+      "responses": [
+        "Yes, there may be upcoming university-wide events or festivals that you should be aware of. These events celebrate the diverse culture and talents of the university community. They may include cultural festivals, music concerts, theatrical performances, guest lectures, and other exciting activities. Keep an eye on the university's events calendar or announcements to stay updated."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "career_fairs_networking_events",
+      "patterns": [
+        "Do you organize any career fairs or networking events on campus?"
+      ],
+      "responses": [
+        "Yes, we organize career fairs and networking events on campus to connect students with potential employers and career opportunities. These events bring together employers from various industries, allowing students to explore internships, full-time job prospects, and network with professionals. Keep an eye out for announcements about career fairs and networking events on campus."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "international_student_events",
+      "patterns": [
+        "Are there any special events or activities for international students?"
+      ],
+      "responses": [
+        "Yes, there may be special events or activities specifically designed for international students. These events aim to support international students in their transition to university life and provide them with opportunities to connect with fellow international students, share experiences, and learn about resources and support services available to them. International student orientations, cultural exchange events, and international student clubs are examples of such activities."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "university_support_services",
+      "patterns": [
+        "What resources or support services does the university provide to students?"
+      ],
+      "responses": [
+        "The university provides a wide range of resources and support services to students. These may include academic advising, tutoring programs, career services, counseling and mental health services, disability support, health services, library facilities, research opportunities, study abroad programs, student clubs and organizations, and more. The university is committed to ensuring that students have the necessary support and resources to thrive academically and personally."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "study_abroad_exchange_programs",
+      "patterns": [
+        "Are there any study abroad or exchange programs available?"
+      ],
+      "responses": [
+        "Yes, the university offers study abroad and exchange programs that allow students to spend a semester or a year studying at partner universities around the world. These programs provide valuable opportunities to immerse yourself in different cultures, gain international perspectives, and broaden your academic horizons. You can inquire with the study abroad office or visit the university's website for more information on available programs and application processes."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "undergraduate_research_opportunities",
+      "patterns": [
+        "Can I participate in undergraduate research opportunities?"
+      ],
+      "responses": [
+        "Absolutely! Our universities offer undergraduate research opportunities for students to engage in academic research projects under the guidance of faculty members. These opportunities can be within your field of study or interdisciplinary. Participating in undergraduate research allows you to develop research skills, work closely with faculty mentors, and contribute to ongoing research efforts. You can explore research opportunities through departmental websites, faculty members, or research offices at the university."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "university_support_clubs_activities",
+      "patterns": [
+        "How does the university support student involvement in clubs, societies, and extracurricular activities?"
+      ],
+      "responses": [
+        "The university strongly encourages student involvement in clubs, societies, and extracurricular activities as they contribute to a well-rounded university experience. The university provides support by offering funding opportunities, access to facilities, assistance with event planning and promotion, and guidance for club management. Additionally, there are student affairs offices or centers that provide resources and support for student organizations, helping them thrive and make a positive impact on campus."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "mentoring_programs_academic_support",
+      "patterns": [
+        "Are there any mentoring programs or academic support initiatives for students?"
+      ],
+      "responses": [
+        "Yes, there are often mentoring programs and academic support initiatives available to students. These programs aim to provide guidance, support, and academic resources to enhance student success. Mentoring programs may pair students with experienced upperclassmen, alumni, or faculty members who provide guidance and support. Academic support initiatives may include tutoring services, writing centers, study groups, and workshops designed to improve study skills and enhance academic performance."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "university_housing_options",
+      "patterns": [
+        "Does the university offer any housing options for students, and can I tour the dormitories?"
+      ],
+      "responses": [
+        "Yes, the university typically offers housing options for students, such as dormitories or residence halls. These provide on-campus accommodation and a vibrant living community. During the open day or scheduled campus visits, you may have the opportunity to tour the dormitories and see the different housing options available. It allows you to get a sense of the facilities, amenities, and the overall living environment."
+      ],
+      "context": [""]
+    },
+    {
+      "tag": "arrange_meeting_campus_visit",
+      "patterns": [
+        "Can I arrange a meeting with an admissions counselor or schedule a personalized campus visit outside of open day events?"
+      ],
+      "responses": [
+        "Yes, you can usually arrange a meeting with an admissions counselor or schedule a personalized campus visit outside of open day events. Admissions counselors are available to address your specific questions, provide guidance through the application process, and offer personalized advice based on your interests and goals. You can contact the admissions office directly to schedule a meeting or campus visit at a convenient time for you."
+      ],
+      "context": [""]
+    }
+  ]
+}
